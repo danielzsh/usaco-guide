@@ -6,12 +6,10 @@
       "name": "Point Location Test",
       "url": "https://cses.fi/problemset/task/2189",
       "source": "CSES",
-      "difficulty": "Easy",
+      "difficulty": "Easy",test
       "isStarred": false,
       "tags": ["Geometry"],
-      "solutionMetadata": {
-        "kind": "none"
-      }
+      "solutionMetadata": { "kind": "internal" }
     }
   ],
   "line": [
@@ -23,9 +21,7 @@
       "difficulty": "Medium",
       "isStarred": false,
       "tags": ["Geometry"],
-      "solutionMetadata": {
-        "kind": "none"
-      }
+      "solutionMetadata": { "kind": "none" }
     }
   ],
   "polygon": [
@@ -37,9 +33,7 @@
       "difficulty": "Medium",
       "isStarred": false,
       "tags": ["Geometry", "Math"],
-      "solutionMetadata": {
-        "kind": "none"
-      }
+      "solutionMetadata": { "kind": "none" }
     }
   ],
   "polygon2": [
@@ -51,9 +45,7 @@
       "difficulty": "Medium",
       "isStarred": false,
       "tags": ["Geometry", "Math"],
-      "solutionMetadata": {
-        "kind": "none"
-      }
+      "solutionMetadata": { "kind": "none" }
     }
   ],
   "standard": [
@@ -65,9 +57,7 @@
       "difficulty": "Easy",
       "isStarred": false,
       "tags": [],
-      "solutionMetadata": {
-        "kind": "internal"
-      }
+      "solutionMetadata": { "kind": "internal" }
     },
     {
       "uniqueId": "kattis-segmentintersection",
@@ -77,9 +67,7 @@
       "difficulty": "Easy",
       "isStarred": false,
       "tags": [],
-      "solutionMetadata": {
-        "kind": "none"
-      }
+      "solutionMetadata": { "kind": "none" }
     },
     {
       "uniqueId": "kattis-segmentdistance",
@@ -89,9 +77,7 @@
       "difficulty": "Easy",
       "isStarred": false,
       "tags": [],
-      "solutionMetadata": {
-        "kind": "none"
-      }
+      "solutionMetadata": { "kind": "none" }
     },
     {
       "uniqueId": "kattis-pointinpolygon",
@@ -101,9 +87,7 @@
       "difficulty": "Easy",
       "isStarred": false,
       "tags": [],
-      "solutionMetadata": {
-        "kind": "internal"
-      }
+      "solutionMetadata": { "kind": "internal" }
     },
     {
       "uniqueId": "kattis-polygonarea",
@@ -113,9 +97,7 @@
       "difficulty": "Easy",
       "isStarred": false,
       "tags": [],
-      "solutionMetadata": {
-        "kind": "internal"
-      }
+      "solutionMetadata": { "kind": "internal" }
     }
   ],
   "other": [
@@ -127,9 +109,7 @@
       "difficulty": "Hard",
       "isStarred": false,
       "tags": [],
-      "solutionMetadata": {
-        "kind": "internal"
-      }
+      "solutionMetadata": { "kind": "internal" }
     },
     {
       "uniqueId": "kattis-maxcolinear",
@@ -139,9 +119,7 @@
       "difficulty": "Hard",
       "isStarred": false,
       "tags": [],
-      "solutionMetadata": {
-        "kind": "internal"
-      }
+      "solutionMetadata": { "kind": "internal" }
     },
     {
       "uniqueId": "kattis-birthdaycake",
@@ -151,9 +129,7 @@
       "difficulty": "Hard",
       "isStarred": false,
       "tags": [],
-      "solutionMetadata": {
-        "kind": "internal"
-      }
+      "solutionMetadata": { "kind": "internal" }
     }
   ]
 }
